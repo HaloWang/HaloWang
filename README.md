@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning English, LLM and Python.
 - 👯 I’m looking to collaborate on new ideas about making money.
-- 💬 Ask me about Flutter and iOS development.
+- 💬 Ask me about Flutter, cross-platform and iOS development.
 - 📫 How to reach me: 📧 halowang1991@gmail.com
